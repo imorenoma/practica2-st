@@ -2,14 +2,28 @@ Practica 2 OSPF
 ---------------
 
 
-2. ACTIVACION DE R1
+1. ACTIVACION DE R1
 --------------------
 
 
-2.1
----
+Hemos configurado r1 primero activando ospf en /etc/quagga/daemons
+y a continuación modificamos en /etc/quagga/ospfd.cof de r1 agregando
+el area 0, considerando que la ip mas alta del router es 17.0.0.1
 
-a
+
+router-id 17.0.0.1 -->ruta mas alta
+passive-interface eth0
+network 11.0.0.0/20 area 0.0.0.0
+network 15.0.0.0/20 area 0.0.0.0
+network 17.0.0.0/20 area 0.0.0.0
+
+
+1.1.1
+-----
+
+a)
+
+ Podemos ver en la captura, en este caso 
 
 b
 
