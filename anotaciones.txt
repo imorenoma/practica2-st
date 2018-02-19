@@ -1,46 +1,11 @@
 Practica 2 OSPF
 ---------------
 
+1.OSPF: TODOS LOS ROUTERS EN EL MISMO AREA
+++++++++++++++++++++++++++++++++++++++++++
 
-2. ACTIVACION DE R1
+1.1. ACTIVACION DE R1
 --------------------
 
+para activar 
 
-2.1
----
-
-a
-
-b
-
-
-c
-
-
-d
-
-
-
-2.2
----
-
-
-2.3
----
-
-2.4
----
-
-
-2.5
----
-
-
-
-2.6
----
-
-
-
-2.7
----
