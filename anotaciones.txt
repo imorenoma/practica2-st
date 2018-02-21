@@ -1,0 +1,10 @@
+------------------
+1.1 Arraque r1
+
+a) como podemos observar en las capturas los mensajes hello se mandan cada 10 seg
+
+
+1.1.4
+
+1.1.5
+
